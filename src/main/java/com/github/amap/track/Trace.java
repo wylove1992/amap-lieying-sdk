@@ -11,7 +11,7 @@ import com.github.amap.track.util.JsonUtil;
 /**
  * 表示猎鹰服务中一个轨迹，可以查询和添加点
  * 
- * @author wy
+ * @author wy 
  *
  */
 public class Trace extends BaseOpr implements Serializable {
