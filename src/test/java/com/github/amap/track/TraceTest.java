@@ -4,6 +4,9 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+/**
+* 单元测试
+*/
 public class TraceTest {
 
 	@Test
